@@ -85,7 +85,14 @@ img{
 }
 
 #videodiv{
-    margin: 2em;
+    background-color: #1a6e3f;    
+    margin: 0px -2% 30px -2%;    
+    align-items: center;
+}
+
+iframe{
+    max-width: 100%;   
+    max-height: auto; 
 }
 
 #extradiv{
